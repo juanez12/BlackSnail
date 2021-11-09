@@ -262,7 +262,7 @@ public class BlackSnail{
 		}
 		
 		(Series)catalog[psPr]=new Series(nameS, sipnosis, nameDs, censorS, censorR);
-		if(
+		(Series)catalog[psPr].addSeason(
 	}
 	
 	//gets and sets
